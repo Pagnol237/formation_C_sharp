@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "formation_C_sharp/1.0.0": {
+        "runtime": {
+          "formation_C_sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formation_C_sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

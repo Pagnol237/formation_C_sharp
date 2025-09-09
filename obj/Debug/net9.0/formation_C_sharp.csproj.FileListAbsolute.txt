@@ -1,0 +1,15 @@
+C:\Users\pnoun\Desktop\formation_C_sharp\bin\Debug\net9.0\formation_C_sharp.exe
+C:\Users\pnoun\Desktop\formation_C_sharp\bin\Debug\net9.0\formation_C_sharp.deps.json
+C:\Users\pnoun\Desktop\formation_C_sharp\bin\Debug\net9.0\formation_C_sharp.runtimeconfig.json
+C:\Users\pnoun\Desktop\formation_C_sharp\bin\Debug\net9.0\formation_C_sharp.dll
+C:\Users\pnoun\Desktop\formation_C_sharp\bin\Debug\net9.0\formation_C_sharp.pdb
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.AssemblyInfoInputs.cache
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.AssemblyInfo.cs
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.sourcelink.json
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.dll
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\refint\formation_C_sharp.dll
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.pdb
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\formation_C_sharp.genruntimeconfig.cache
+C:\Users\pnoun\Desktop\formation_C_sharp\obj\Debug\net9.0\ref\formation_C_sharp.dll
