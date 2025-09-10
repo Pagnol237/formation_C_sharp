@@ -23,7 +23,7 @@ namespace formation_C_sharp
       Console.WriteLine("solution (calcule de la surface)\n************************\n\n S = L*l\n A.N:" + longeur + "+" + largeur + "=" + longeur * largeur);
       */
       /* exerice 1 calcule de la moyenne*/
-      /* Console.WriteLine("saisir votre note de maths .../20");
+      Console.WriteLine("saisir votre note de maths .../20");
        double note_maths = Convert.ToDouble(Console.ReadLine());
        Console.WriteLine("saisir votre note de d\'informatique .../20");
        double note_infos = Convert.ToDouble(Console.ReadLine());
@@ -37,20 +37,20 @@ namespace formation_C_sharp
        Console.WriteLine("Résultat \n----------------------\n");
        Console.WriteLine($"maths :\t{note_maths}\ninfos :\t{note_infos}\nédu :\t{note_edu}\n*Moyenne :*\t{moyenne}\nMENTION : \t{mention}\n**********");
 
- */
+
       // exercice deux triangle d'étoile
       Console.WriteLine("entrez un chifre");
       int nombre = Convert.ToInt32(Console.ReadLine());
 
-      for (int i = 1; i <= 5; i++)
+      for (int i = 1; i <=nombre; i++)
       {
-        for (int j = 1; j <= i; j++)
+        for (int j = 1; j <=i; j++)
         {
           Console.Write("*");
-          j++;
+          
         }
         Console.WriteLine();
-        i++;
+        
       }
 
     }
